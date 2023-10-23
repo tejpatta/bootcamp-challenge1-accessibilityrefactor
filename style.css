@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* this is to create a blue-background header with a stylized name and navigation links in the top right */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -35,7 +35,7 @@ header nav {
 header ul {
     list-style-type: none;
 }
-
+/* this is to make the navigation links appear in-line next to each other*/
 header ul li {
     display: inline-block;
     margin-left: 25px;
@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*this is to create two visible areas to place content in on the page*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* these create the right-hand column of text on the page. They are styled separately so any aspect can be changed easily without affecting the rest*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -115,7 +115,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/*these determine the appearance of the images in the right-hand column*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -133,7 +133,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*these determine the appearance of the images in the main block of text*/
 #search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -171,7 +171,7 @@ p {
 #social-media-marketing img {
     max-height: 200px;
 }
-
+/*these stylize the heading in the main block of text*/
 #search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -186,7 +186,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*this is a footer*/
 footer {
     padding: 30px;
     clear: both;

@@ -2,6 +2,7 @@
 # Refactoring a Marketing Company's Webpage
 
 ## Description
+![image](https://github.com/tejpatta/bootcamp-challenge1-accessibilityrefactor/assets/147752590/488fa030-e0c9-497f-a413-ae270172fcb8)
 
 This webpage was created in response to boot camp assignment to apply skills learnt in semantic HTML, CSS, and GitFlow best practicies It contains images, content sorted in a few blocks, and a header with navigation links to each major section on the page.
 
